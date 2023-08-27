@@ -1,18 +1,33 @@
++++
+title = "Knots"
+description = "Various knots"
+date = 2021-05-01T08:00:00+00:00
+updated = 2021-05-01T08:00:00+00:00
+draft = false
+weight = 10
+sort_by = "weight"
+template = "docs/page.html"
+
+[extra]
+lead = 'lead'
+toc = true
+top = false
++++
 
 
-### Bowline
+## Bowline
 
 
-### Rethreaded Bowline
+## Rethreaded Bowline
 
  - [KafAdventurs - Rethreaded Bowline](https://www.youtube.com/watch?v=kejD2DxAyH4&t=1s)
 
 
-### Clove Hitch
+## Clove Hitch
 
 
 
-### Munter Hitch
+## Munter Hitch
 
 English: Munter Hitch, Italian Hitch
 
@@ -21,9 +36,7 @@ Italian: Mezzo barcaiolo
 German: Halbmastwurf 
 
 
-
-
-### Munter Hitch Tie-off
+## Munter Hitch Tie-off
 
 A single or two knots used for blocking the Munter hitch. 
 It allows the belayer to release the hands from the brake strand. 

@@ -1,6 +1,19 @@
-# ClimbingRosetta
++++
+title = "README"
+#description = "Disclaimer"
+date = 2021-05-01T08:20:00+00:00
+updated = 2021-05-01T08:20:00+00:00
+draft = false
+weight = 20
+sort_by = "weight"
+template = "docs/page.html"
 
-A community run Rosetta Stone of climbing terms in different languages.
+[extra]
+#lead = "readme"
+toc = true
+top = false
++++
+
 
 ## Disclaimer
 
