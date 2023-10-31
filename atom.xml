@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>ClimbingRosetta</title>
+    <subtitle>A community run Rosetta Stone of climbing terms in different languages</subtitle>
+    <link href="https://openclimbing.github.io/ClimbingRosetta/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://openclimbing.github.io/ClimbingRosetta"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-05-01T08:20:00+00:00</updated>
+    <id>https://openclimbing.github.io/ClimbingRosetta/atom.xml</id>
+    <entry xml:lang="en">
+        <title>README</title>
+        <published>2021-05-01T08:20:00+00:00</published>
+        <updated>2021-05-01T08:20:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://openclimbing.github.io/ClimbingRosetta/rosetta/readme/" type="text/html"/>
+        <id>https://openclimbing.github.io/ClimbingRosetta/rosetta/readme/</id>
+        
+        <content type="html">&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;This is only a dictionary&lt;&#x2F;strong&gt;. The content of this repository and of the referenced videos&#x2F;articles do not substitute for proper training, experience, or participation in a climbing course or program conducted by qualified professionals. &lt;&#x2F;p&gt;
+&lt;p&gt;Even within the same nation or climbing community, there can be variations in naming conventions for knots, devices, rock formations, and techniques. It is essential to recognize that these names may not be universally recognized or understood.&lt;&#x2F;p&gt;
+&lt;p&gt;Note that climbing techniques can vary significantly across different regions and countries. Each nation may have its own established climbing practices, equipment preferences, and safety standards. Even small differences in climbing techniques can have significant implications for safety and performance.&lt;&#x2F;p&gt;
+&lt;p&gt;Always respect and adhere to the local climbing ethics, rules, and regulations. Ignoring or disregarding these cultural variations may not only compromise your safety but also create a negative impact on the climbing community and the environment.&lt;&#x2F;p&gt;
+&lt;p&gt;Climbing is an inherently dangerous activity that requires proper training, experience, and knowledge of safety protocols.&lt;&#x2F;p&gt;
+&lt;p&gt;The creators and the contributors are not responsible for any accidents, injuries, or damages that may occur due to the use or misinterpretation of this repository. It is your responsibility to seek local expertise, educate yourself about the specific climbing practices, and adapt your skills accordingly to ensure a safe and enjoyable climbing experience.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Terms</title>
+        <published>2021-05-01T08:20:00+00:00</published>
+        <updated>2021-05-01T08:20:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://openclimbing.github.io/ClimbingRosetta/rosetta/terms/" type="text/html"/>
+        <id>https://openclimbing.github.io/ClimbingRosetta/rosetta/terms/</id>
+        
+        <content type="html">&lt;h2 id=&quot;commands&quot;&gt;Commands&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;EN&lt;&#x2F;th&gt;&lt;th&gt;IT&lt;&#x2F;th&gt;&lt;th&gt;DE&lt;&#x2F;th&gt;&lt;th&gt;Description&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;command&lt;&#x2F;td&gt;&lt;td&gt;comando&lt;&#x2F;td&gt;&lt;td&gt;Kommando&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;tension!&lt;&#x2F;td&gt;&lt;td&gt;recupera!&lt;&#x2F;td&gt;&lt;td&gt;Seil Ein!&lt;&#x2F;td&gt;&lt;td&gt;Lead asks belayer to remove slack&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;take!&lt;&#x2F;td&gt;&lt;td&gt;blocca!  &#x2F; tieni!&lt;&#x2F;td&gt;&lt;td&gt;zu&lt;&#x2F;td&gt;&lt;td&gt;Lead asks belayer to remove all the slack, so he&#x2F;she can seat on the rope&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ready to lower&lt;&#x2F;td&gt;&lt;td&gt;giù&lt;&#x2F;td&gt;&lt;td&gt;ab&#x2F; ablassen&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Slack!&lt;&#x2F;td&gt;&lt;td&gt;corda!&lt;&#x2F;td&gt;&lt;td&gt;Seil!&lt;&#x2F;td&gt;&lt;td&gt;Lead asks for more slack&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Off-belay!&lt;&#x2F;td&gt;&lt;td&gt;Molla tutto!&lt;&#x2F;td&gt;&lt;td&gt;Stand&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;After&lt;&#x2F;strong&gt; reaching the anchor and being safely tied-in, the lead asks the belayer to remove the rope from the belay device&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Belay-off!&lt;&#x2F;td&gt;&lt;td&gt;libera!   &#x2F; Recupera!&lt;&#x2F;td&gt;&lt;td&gt;Seil Frei!&lt;&#x2F;td&gt;&lt;td&gt;After removing the rope from the belay device, the belayer tells the lead that the rope is now free and it can be pulled up&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;That&#x27;s me!&lt;&#x2F;td&gt;&lt;td&gt;finita!&lt;&#x2F;td&gt;&lt;td&gt;Seil Aus!&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Climb when ready!&lt;&#x2F;td&gt;&lt;td&gt;vieni!&lt;&#x2F;td&gt;&lt;td&gt;Nachkommen!&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Lead&lt;&#x2F;td&gt;&lt;td&gt;primo  di cordata&lt;&#x2F;td&gt;&lt;td&gt;Vorsteiger&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Follower&lt;&#x2F;td&gt;&lt;td&gt;secondo di cordata&lt;&#x2F;td&gt;&lt;td&gt;Nachsteiger&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;On-belay?&lt;&#x2F;td&gt;&lt;td&gt;sono assicurato?&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Belay-on!&lt;&#x2F;td&gt;&lt;td&gt;sei assicurato&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;climbing&lt;&#x2F;td&gt;&lt;td&gt;vado&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;climbing!&lt;&#x2F;td&gt;&lt;td&gt;vengo&lt;&#x2F;td&gt;&lt;td&gt;kommen&#x2F;nachkommen&lt;&#x2F;td&gt;&lt;td&gt;Follower starts to climb&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Belay station &#x2F; anchor&lt;&#x2F;td&gt;&lt;td&gt;sosta&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Rope!&lt;&#x2F;td&gt;&lt;td&gt;Corda!&lt;&#x2F;td&gt;&lt;td&gt;Seil!&lt;&#x2F;td&gt;&lt;td&gt;Warning other people before the rope is thrown from above&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Stop!&lt;&#x2F;td&gt;&lt;td&gt;Stop!&lt;&#x2F;td&gt;&lt;td&gt;Stop!&lt;&#x2F;td&gt;&lt;td&gt;When the lead is being lowered while cleaning a route, the lead asks the belayer to stop e.g. for removing a quickdraw&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;belay-and-climber-equipment&quot;&gt;Belay and Climber Equipment&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;EN&lt;&#x2F;th&gt;&lt;th&gt;IT&lt;&#x2F;th&gt;&lt;th&gt;DE&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Belay device&lt;&#x2F;td&gt;&lt;td&gt;Assicuratore&lt;&#x2F;td&gt;&lt;td&gt;Sicherungsgeräte&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Harness&lt;&#x2F;td&gt;&lt;td&gt;Imbrago&lt;&#x2F;td&gt;&lt;td&gt;Klettergurt&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Quickdraws&lt;&#x2F;td&gt;&lt;td&gt;Rinvio&lt;&#x2F;td&gt;&lt;td&gt;Express, Exe&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Carabineer, Biner&lt;&#x2F;td&gt;&lt;td&gt;Moschettone&lt;&#x2F;td&gt;&lt;td&gt;Karabiner&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Locking Carabiner&lt;&#x2F;td&gt;&lt;td&gt;Moschettone a ghiera&lt;&#x2F;td&gt;&lt;td&gt;Autolock Karabiner, Schraubkarabiner&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;HMS Carabineer&lt;&#x2F;td&gt;&lt;td&gt;Moschettone a pera, HMS&lt;&#x2F;td&gt;&lt;td&gt;HMS&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sling&lt;&#x2F;td&gt;&lt;td&gt;Fettuccia&lt;&#x2F;td&gt;&lt;td&gt;Bandschlingen&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Cord&lt;&#x2F;td&gt;&lt;td&gt;cordino&lt;&#x2F;td&gt;&lt;td&gt;Reepschnur&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;wall-equipment-and-protections&quot;&gt;Wall Equipment and protections&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;EN&lt;&#x2F;th&gt;&lt;th&gt;IT&lt;&#x2F;th&gt;&lt;th&gt;DE&lt;&#x2F;th&gt;&lt;th&gt;Description&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Anchor&lt;&#x2F;td&gt;&lt;td&gt;Catena&lt;&#x2F;td&gt;&lt;td&gt;Umlenker&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Bolt (Expansion Bolt)&lt;&#x2F;td&gt;&lt;td&gt;fix (spit FIX)&lt;&#x2F;td&gt;&lt;td&gt;Bohrhaken&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Bolt (Glue-in Bolt)&lt;&#x2F;td&gt;&lt;td&gt;fittone resinato&lt;&#x2F;td&gt;&lt;td&gt;Klebehaken&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Friend&lt;&#x2F;td&gt;&lt;td&gt;Friend&lt;&#x2F;td&gt;&lt;td&gt;Klemmgerät&lt;&#x2F;td&gt;&lt;td&gt;Spring-loaded quick protection with cams&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Nuts&lt;&#x2F;td&gt;&lt;td&gt;Nuts, Dadi&lt;&#x2F;td&gt;&lt;td&gt;Klemmkeile&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;sport-climbing&quot;&gt;Sport Climbing&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Description&lt;&#x2F;th&gt;&lt;th&gt;EN&lt;&#x2F;th&gt;&lt;th&gt;IT&lt;&#x2F;th&gt;&lt;th&gt;DE&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;At the end of a sport route, the climber makes a new knot on his harness in order to make the rope go through the Anchor&lt;&#x2F;td&gt;&lt;td&gt;Cleaning the anchor&lt;&#x2F;td&gt;&lt;td&gt;Fare la manovra&lt;&#x2F;td&gt;&lt;td&gt;abbauen&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;The climber climbs with the rope being pulled from the anchor.&lt;&#x2F;td&gt;&lt;td&gt;Top rope&lt;&#x2F;td&gt;&lt;td&gt;Top rope, moulinette&lt;&#x2F;td&gt;&lt;td&gt;Top rope, nachsteigen&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;Redpoint&lt;&#x2F;td&gt;&lt;td&gt;Salire in libera&lt;&#x2F;td&gt;&lt;td&gt;Rotpunkt&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;First ascent&lt;&#x2F;td&gt;&lt;td&gt;Liberare&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;To grab a quickdraws while climbing&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;Mungere&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Succesfully ascend a route which was already climbed by another climber in the past&lt;&#x2F;td&gt;&lt;td&gt;Repeat&lt;&#x2F;td&gt;&lt;td&gt;ripetere&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;alpine-climbing&quot;&gt;Alpine climbing&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;EN&lt;&#x2F;th&gt;&lt;th&gt;IT&lt;&#x2F;th&gt;&lt;th&gt;DE&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Simulclimbing&lt;&#x2F;td&gt;&lt;td&gt;Progressione in conserva&lt;&#x2F;td&gt;&lt;td&gt;am laufenden Seil&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Knots</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://openclimbing.github.io/ClimbingRosetta/rosetta/knots/" type="text/html"/>
+        <id>https://openclimbing.github.io/ClimbingRosetta/rosetta/knots/</id>
+        
+        <content type="html">&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;English&lt;&#x2F;th&gt;&lt;th&gt;German&lt;&#x2F;th&gt;&lt;th&gt;Italian&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Figure Eight knot &lt;br&#x2F;&gt; &lt;br&#x2F;&gt; Note: In multiple languages, figure eight refers to both the one-strand and two-strands version of the knot &lt;br&#x2F;&gt; note: when executed on a bight, the knot is called &amp;quot;Figure eight on a bight&amp;quot;&lt;&#x2F;td&gt;&lt;td&gt;Achter, Doppelter Achter, Achtknoten&lt;&#x2F;td&gt;&lt;td&gt;Nodo a otto, nodo delle guide con frizione&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;European Death Knot, Overhand knot&lt;&#x2F;td&gt;&lt;td&gt;Sackstich&lt;&#x2F;td&gt;&lt;td&gt;Nodo galleggiante&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Bowline&lt;&#x2F;td&gt;&lt;td&gt;Bulin&lt;&#x2F;td&gt;&lt;td&gt;Bulino&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Rethreaded Bowline &lt;br&#x2F;&gt; &lt;br&#x2F;&gt; note: when executed on a bight, the knot is called &amp;quot;Bowline on a bight&amp;quot;&lt;&#x2F;td&gt;&lt;td&gt;Doppeltbulin &lt;br&#x2F;&gt;&lt;br&#x2F;&gt; note: when executed on a bight and used on an anchor, the knot is called &amp;quot;Weiche Auge&amp;quot;&lt;&#x2F;td&gt;&lt;td&gt;Bulino ripassato, Nodo a cravatta &lt;br&#x2F;&gt; &lt;br&#x2F;&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kejD2DxAyH4&amp;amp;t=1s&quot;&gt;KafAdventurs - Rethreaded Bowline&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Double bowline &lt;br&#x2F;&gt; &lt;br&#x2F;&gt; To not be confused with the rethreaded bowline &lt;br&#x2F;&gt;  - &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=2z4nYVAZlx4&quot;&gt;REI - How to Tie a Double Bowline Knot&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;?&lt;&#x2F;td&gt;&lt;td&gt;?&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Clove hitch&lt;&#x2F;td&gt;&lt;td&gt;Mastwurf&lt;&#x2F;td&gt;&lt;td&gt;Barcaiolo&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Munter Hitch, Italian Hitch&lt;&#x2F;td&gt;&lt;td&gt;Halbmastwurf&lt;&#x2F;td&gt;&lt;td&gt;Mezzo barcaiolo&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Munter Hitch Tie-off, Munter mule, Italian Hitch Tie-off, Slipknot &lt;br&#x2F;&gt; &lt;br&#x2F;&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Jo0Ys3mdEqk&quot;&gt;Mountain Skills Academy &amp;amp; Adventures - MTNTIPS Knots - Munter hitch tie off&lt;&#x2F;a&gt; &lt;br&#x2F;&gt;  &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;FMtt0K4P5D8?t=72&quot;&gt;How to Belay with a Munter Hitch - Overhand&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Schleifknoten  &lt;br&#x2F;&gt; &lt;br&#x2F;&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Cy_TzzXxXdo&quot;&gt;Bergsport Life - Bergrettung - Seilblockierknoten: Schleifknoten zur HMS Fixierung&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;Asola e Controasola  &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=KDs77xTAw1A&quot;&gt;Elio Sganga - Tutorial di Alpinismo - ASOLA E CONTRO ASOLA&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Water knot, Ring bend&lt;&#x2F;td&gt;&lt;td&gt;Bandschlingenknoten&lt;&#x2F;td&gt;&lt;td&gt;Nodo copiato, Nodo fettuccia&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Double fisherman&lt;&#x2F;td&gt;&lt;td&gt;Doppelter Spierenstich&lt;&#x2F;td&gt;&lt;td&gt;Doppio inglese, Nodo doppio inglese&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Machard&lt;&#x2F;td&gt;&lt;td&gt;Machard&lt;&#x2F;td&gt;&lt;td&gt;Machard&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Prusik&lt;&#x2F;td&gt;&lt;td&gt;Prusik&lt;&#x2F;td&gt;&lt;td&gt;Prusik&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Klemmheist&lt;&#x2F;td&gt;&lt;td&gt;Klemmheist&lt;&#x2F;td&gt;&lt;td&gt;Klemmheist&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Butterfly knot&lt;&#x2F;td&gt;&lt;td&gt;Schmetterlingsknoten&lt;&#x2F;td&gt;&lt;td&gt;Nodo a farfalla&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Girth hitch, Cow hitch&lt;&#x2F;td&gt;&lt;td&gt;Ankerstich, Buchtknoten&lt;&#x2F;td&gt;&lt;td&gt;Bocca di lupo&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Landscape features</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://openclimbing.github.io/ClimbingRosetta/rosetta/landscape-features/" type="text/html"/>
+        <id>https://openclimbing.github.io/ClimbingRosetta/rosetta/landscape-features/</id>
+        
+        <content type="html">&lt;h2 id=&quot;landscape-features-wip&quot;&gt;Landscape features (WIP)&lt;&#x2F;h2&gt;
+&lt;div id=&quot;landscape_features_table&quot;&gt;&lt;&#x2F;div&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;EN&lt;&#x2F;th&gt;&lt;th&gt;IT&lt;&#x2F;th&gt;&lt;th&gt;X&lt;&#x2F;th&gt;&lt;th&gt;Y&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Spike&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;90&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Edge&lt;&#x2F;td&gt;&lt;td&gt;Spigolo&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;90&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;!-- &lt;div&gt;
+    &lt;img id=&quot;image&quot; src=&quot;https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;commons&#x2F;d&#x2F;da&#x2F;Klim_gordel.jpg&quot; width=&quot;400&quot; height=&quot;300&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt; --&gt;
+&lt;!-- &lt;label for=&quot;textColumnSelect&quot;&gt;Select Text Column: &lt;&#x2F;label&gt; --&gt;
+&lt;script
+  src=&quot;https:&#x2F;&#x2F;code.jquery.com&#x2F;jquery-3.7.1.slim.min.js&quot;
+  integrity=&quot;sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=&quot;
+  crossorigin=&quot;anonymous&quot;&gt;&lt;&#x2F;script&gt;
+
+&lt;div id=&quot;landscape_features&quot;&gt;
+    &lt;select id=&quot;textColumnSelect&quot;&gt;
+        &lt;option value=&quot;1&quot;&gt;English&lt;&#x2F;option&gt;
+        &lt;option value=&quot;2&quot;&gt;Deutsch&lt;&#x2F;option&gt;
+        &lt;!-- Add more options as needed --&gt;
+    &lt;&#x2F;select&gt;
+    &lt;table id=&quot;dataTable&quot; hidden=&quot;true&quot;&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th&gt;Text 1&lt;&#x2F;th&gt;
+                &lt;th&gt;Text 2&lt;&#x2F;th&gt;
+                &lt;th&gt;X Position&lt;&#x2F;th&gt;
+                &lt;th&gt;Y Position&lt;&#x2F;th&gt;
+            &lt;&#x2F;tr&gt;
+        &lt;&#x2F;thead&gt;
+        &lt;tbody&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Text A&lt;&#x2F;td&gt;
+                &lt;td&gt;Text X&lt;&#x2F;td&gt;
+                &lt;td&gt;50&lt;&#x2F;td&gt;
+                &lt;td&gt;50&lt;&#x2F;td&gt;
+            &lt;&#x2F;tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Text B&lt;&#x2F;td&gt;
+                &lt;td&gt;Text Y&lt;&#x2F;td&gt;
+                &lt;td&gt;100&lt;&#x2F;td&gt;
+                &lt;td&gt;100&lt;&#x2F;td&gt;
+            &lt;&#x2F;tr&gt;
+            &lt;!-- Add more rows as needed --&gt;
+        &lt;&#x2F;tbody&gt;
+    &lt;&#x2F;table&gt;
+    &lt;div id=&quot;container&quot;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+
+&lt;script src=&quot;https:&#x2F;&#x2F;unpkg.com&#x2F;konva@9&#x2F;konva.min.js&quot;&gt;&lt;&#x2F;script&gt;</content>
+        
+    </entry>
+</feed>

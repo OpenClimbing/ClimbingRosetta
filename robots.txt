@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://openclimbing.github.io/ClimbingRosetta/sitemap.xml
