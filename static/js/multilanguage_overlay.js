@@ -1,4 +1,5 @@
 // Initialize Konva Stage and Layer
+
 const stage = new Konva.Stage({
     container: 'container',
     width: 400,

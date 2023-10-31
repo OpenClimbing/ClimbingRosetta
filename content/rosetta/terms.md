@@ -40,14 +40,17 @@ top = false
 
 ## Belay and Climber Equipment
 
-| EN                | IT                      | DE               |
-|-------------------|-------------------------|------------------|
-| Belay device      | Assicuratore            | Sicherungsgeräte |
-| Harness           | Imbrago                 | Klettergurt      |
-| Quickdraws        | Rinvio                  | Express, Exe     |
-| Carabineer, Biner | Moschettone             | Carabineer       |
-| Locking Carabiner | Moschettone a ghiera    |                  |
-| HMS Carabineer    | Moschettone a pera, HMS | HMS              |
+| EN                | IT                      | DE                                   |
+|-------------------|-------------------------|--------------------------------------|
+| Belay device      | Assicuratore            | Sicherungsgeräte                     |
+| Harness           | Imbrago                 | Klettergurt                          |
+| Quickdraws        | Rinvio                  | Express, Exe                         |
+| Carabineer, Biner | Moschettone             | Karabiner                            |
+| Locking Carabiner | Moschettone a ghiera    | Autolock Karabiner, Schraubkarabiner |
+| HMS Carabineer    | Moschettone a pera, HMS | HMS                                  |
+| Sling             | Fettuccia               | Bandschlingen                        |
+| Cord              | cordino                 | Reepschnur                           |
+|                   |                         |                                      |
 
 
 
@@ -76,6 +79,6 @@ top = false
 
 ## Alpine climbing
 
-| Description | EN            | IT                       | DE            |
-|-------------|---------------|--------------------------|---------------|
-|             | Simulclimbing | Progressione in conserva | Laufende-seil |
+| EN            | IT                       | DE                |
+|---------------|--------------------------|-------------------|
+| Simulclimbing | Progressione in conserva | am laufenden Seil |

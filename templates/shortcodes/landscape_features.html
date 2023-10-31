@@ -1,0 +1,40 @@
+<script
+  src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+  integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+  crossorigin="anonymous"></script>
+
+<div id="landscape_features">
+    <select id="textColumnSelect">
+        <option value="1">English</option>
+        <option value="2">Deutsch</option>
+        <!-- Add more options as needed -->
+    </select>
+    <table id="dataTable" hidden="true">
+        <thead>
+            <tr>
+                <th>Text 1</th>
+                <th>Text 2</th>
+                <th>X Position</th>
+                <th>Y Position</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Text A</td>
+                <td>Text X</td>
+                <td>50</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Text B</td>
+                <td>Text Y</td>
+                <td>100</td>
+                <td>100</td>
+            </tr>
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+    <div id="container"></div>
+</div>
+
+<script src="https://unpkg.com/konva@9/konva.min.js"></script>

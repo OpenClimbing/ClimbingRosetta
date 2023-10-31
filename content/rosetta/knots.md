@@ -14,150 +14,21 @@ toc = true
 top = false
 +++
 
-## Figure Eight knot
+| English                                                                                                                                                                                                                                                                                           | German                                                                                                                                                       | Italian                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Figure Eight knot <br/> <br/> Note: In multiple languages, figure eight refers to both the one-strand and two-strands version of the knot <br/> note: when executed on a bight, the knot is called "Figure eight on a bight"                                                                      | Achter, Doppelter Achter, Achtknoten                                                                                                                         | Nodo a otto, nodo delle guide con frizione                                                                                            |
+| European Death Knot, Overhand knot                                                                                                                                                                                                                                                                | Sackstich                                                                                                                                                    | Nodo galleggiante                                                                                                                     |
+| Bowline                                                                                                                                                                                                                                                                                           | Bulin                                                                                                                                                        | Bulino                                                                                                                                |
+| Rethreaded Bowline <br/> <br/> note: when executed on a bight, the knot is called "Bowline on a bight"                                                                                                                                                                                            | Doppeltbulin <br/><br/> note: when executed on a bight and used on an anchor, the knot is called "Weiche Auge"                                               | Bulino ripassato, Nodo a cravatta <br/> <br/> - [KafAdventurs - Rethreaded Bowline](https://www.youtube.com/watch?v=kejD2DxAyH4&t=1s) |
+| Double bowline <br/> <br/> To not be confused with the rethreaded bowline <br/>  - [REI - How to Tie a Double Bowline Knot](https://www.youtube.com/watch?v=2z4nYVAZlx4)                                                                                                                          | ?                                                                                                                                                            | ?                                                                                                                                     |
+| Clove hitch                                                                                                                                                                                                                                                                                       | Mastwurf                                                                                                                                                     | Barcaiolo                                                                                                                             |
+| Munter Hitch, Italian Hitch                                                                                                                                                                                                                                                                       | Halbmastwurf                                                                                                                                                 | Mezzo barcaiolo                                                                                                                       |
+| Munter Hitch Tie-off, Munter mule, Italian Hitch Tie-off, Slipknot <br/> <br/> [Mountain Skills Academy & Adventures - MTNTIPS Knots - Munter hitch tie off](https://www.youtube.com/watch?v=Jo0Ys3mdEqk) <br/>  [How to Belay with a Munter Hitch - Overhand](https://youtu.be/FMtt0K4P5D8?t=72) | Schleifknoten  <br/> <br/> [Bergsport Life - Bergrettung - Seilblockierknoten: Schleifknoten zur HMS Fixierung](https://www.youtube.com/watch?v=Cy_TzzXxXdo) | Asola e Controasola  [Elio Sganga - Tutorial di Alpinismo - ASOLA E CONTRO ASOLA](https://www.youtube.com/watch?v=KDs77xTAw1A)        |
+| Water knot, Ring bend                                                                                                                                                                                                                                                                             | Bandschlingenknoten                                                                                                                                          | Nodo copiato, Nodo fettuccia                                                                                                          |
+| Double fisherman                                                                                                                                                                                                                                                                                  | Doppelter Spierenstich                                                                                                                                       | Doppio inglese, Nodo doppio inglese                                                                                                   |
+| Machard                                                                                                                                                                                                                                                                                           | Machard                                                                                                                                                      | Machard                                                                                                                               |
+| Prusik                                                                                                                                                                                                                                                                                            | Prusik                                                                                                                                                       | Prusik                                                                                                                                |
+| Klemmheist                                                                                                                                                                                                                                                                                        | Klemmheist                                                                                                                                                   | Klemmheist                                                                                                                            |
+| Butterfly knot                                                                                                                                                                                                                                                                                    | Schmetterlingsknoten                                                                                                                                         | Nodo a farfalla                                                                                                                       |
+| Girth hitch, Cow hitch                                                                                                                                                                                                                                                                            | Ankerstich, Buchtknoten                                                                                                                                      | Bocca di lupo                                                                                                                         |
 
-Note: In multiple languages, figure eight refers to both the one-strand and two-strands 
-version of the knot
-
-English: Figure eight knot
-
-note: when executed on a bite, the knot is called "Figure eight on a bite"
-
-German: Achter, Doppelter Achter, Achtknoten
-
-Italian: Nodo a otto, nodo delle guide
-
-## European Death Knot
-
-Knot for joining two half-ropes for abseiling a route
-
-English: Overhand knot, European Death Knot, 
-
-German: Sackstich
-
-Italian: Nodo galleggiante 
-
-## Bowline
-
-English: Bowline
-
-Italian: Bulino
-
-German: Bulin 
-
-## Rethreaded Bowline
-
-English: Rethreaded bowline
-
-note: when executed on a bite, the knot is called "Bowline on a bite"
-
-Italian: Bulino ripassato, Nodo a cravatta 
-
-German: Doppeltbulin 
-
-## Double bowline
-
-To not be confused with the rethreaded bowline
-
-English: Double bowline
-
-Italian: 
-
-
-- [KafAdventurs - Rethreaded Bowline](https://www.youtube.com/watch?v=kejD2DxAyH4&t=1s)
-
-## Clove Hitch
-
-English: Clove hitch
-
-Italian: Barcaiolo
-
-German: Mastwurf
-
-
-## Munter Hitch
-
-English: Munter Hitch, Italian Hitch
-
-Italian: Mezzo barcaiolo
-
-German: Halbmastwurf 
-
-
-## Munter Hitch Tie-off
-
-A single or two knots used for blocking the Munter hitch. 
-It allows the belayer to release the hands from the brake strand. 
-
-English: Munter Hitch Tie-off, , Munter mule, Italian Hitch Tie-off, Slipknot
-
-English Youtube: 
- - [Mountain Skills Academy & Adventures - MTNTIPS Knots - Munter hitch tie off](https://www.youtube.com/watch?v=Jo0Ys3mdEqk)
- - [How to Belay with a Munter Hitch - Overhand](https://youtu.be/FMtt0K4P5D8?t=72)
-
-German:
-
-Italian:
- Asola e Controasola
-
-Italian Youtube
-
- - [Elio Sganga - Tutorial di Alpinismo - ASOLA E CONTRO ASOLA](https://www.youtube.com/watch?v=KDs77xTAw1A)
-
-
-## Water knot
-
-Knot for joining two slings ends
-
-English: Water knot
-
-German: 
-
-Italian: 
-
-## Double fisherman
-
-Knot for joining two rope ends
-
-English: Double fisherman 
-
-German: D
-
-Italian: Doppio inglese
-
-## Machard 
-
-English: Machard 
-
-German: Machard
-
-Italian: Machard
-
-## Prusik
-
-English: Prusik 
-
-German: Prusik
-
-Italian: Prusik
-
-## Klemmheist
-
-English: Klemmheist 
-
-German: Klemmheist
-
-Italian: Klemmheist
-
-## Butterfly knot
-
-English:
-
-German: 
-
-Italian: Nodo a farfalla
-
-##  
-
-
-Italian: Bocca di lupo
